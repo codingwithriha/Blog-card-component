@@ -29,7 +29,7 @@ A clean and responsive **Blog Card Component** built as part of a Frontend Mento
 
 ## 📸 Preview
 
-![Project Preview](./src/assets/images/illustration-article.svg)
+![Project Preview](./src/assets/images/blog-preview.png)
 
 ---
 
@@ -71,5 +71,5 @@ This project was created as a solution to a Frontend Mentor challenge.
 
 ## 👩‍💻 Author
 
-**Riha Shehzadi**
+**Riha Shehzadi** <br>
 GitHub: https://github.com/codingwithriha
