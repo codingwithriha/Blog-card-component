@@ -1,3 +1,6 @@
+import articleImage from '../assets/images/illustration-article.svg'
+import avatarImage from '../assets/images/image-avatar.webp'
+
 export default function BlogCard() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-yellow-200">
@@ -5,7 +8,7 @@ export default function BlogCard() {
       <div className="bg-white p-5 rounded-2xl shadow-lg w-80">
         
         <img
-          src="src/assets/images/illustration-article.svg"
+          src={articleImage}
           alt="blog"
           className="rounded-xl mb-4"
         />
@@ -28,7 +31,7 @@ export default function BlogCard() {
 
         <div className="flex items-center gap-3 mt-4">
           <img
-            src="src/assets/images/image-avatar.webp"
+            src={avatarImage}
             className="w-8 h-8 rounded-full"
           />
           <p className="text-sm font-semibold">Greg Hooper</p>
