@@ -5,7 +5,7 @@ export default function BlogCard() {
       <div className="bg-white p-5 rounded-2xl shadow-lg w-80">
         
         <img
-          src="/src/assets/images/illustration-article.svg"
+          src="src/assets/images/illustration-article.svg"
           alt="blog"
           className="rounded-xl mb-4"
         />
@@ -28,7 +28,7 @@ export default function BlogCard() {
 
         <div className="flex items-center gap-3 mt-4">
           <img
-            src="/src/assets/images/image-avatar.webp"
+            src="src/assets/images/image-avatar.webp"
             className="w-8 h-8 rounded-full"
           />
           <p className="text-sm font-semibold">Greg Hooper</p>
